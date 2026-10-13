@@ -1,0 +1,20 @@
+An electronic voting machine is a device used to record votes electronically instead of paper ballots. In a true electronic voting system, direct-recording electronic voting machines are used to record votes electronically. The optical scan voting system is a paper-based voting system which uses electronic means for ballot scanning or counting.
+
+
+== Direct-recording electronic ==
+
+In a Direct-recording electronic (DRE) voting machine system, the available candidate choices are displayed to the voter on a screen, who then selects their choices. Election staff initialize the machine before each vote is cast and there are often built in safeguards to prevent repeat voting. Voting data are recorded in memory components in the machine and can be extracted at the end of the election.
+Some of these machines are accompanied by a voter-verified paper audit trail which prints the name(s) of the chosen candidates on paper for the voter to verify. The paper records are kept behind glass within the machine and can be used for election audits and recounts if necessary. The paper trail can be tallied with the voting data can be printed at the end of the elections.
+For machines without VVPAT, there is no record of individual votes that can be checked. In 2009, the Federal Constitutional Court of Germany found that the machines that were in usage at the time could not be allowed because the votes could not be verified independently. Owing to similar concerns on verifiability, a VVPAT system was developed by the Election Commission of India, which was put on field trials in 2011, and is used in all the Indian elections since 2019 based on an order by the Supreme Court of India.
+Though the design, production and procurement of these machines could be capital intensive, it has been proved to reduce costs incurred on the printing of ballot papers, their transportation and storage, and the counting staff and the remuneration paid to them. There is also a reduced probability of malfeasance and rejection of votes, and often eliminates the requirement of re-polling due to these issues.
+For machines with VVPAT, auditing might be more time consuming than with paper ballots because the records are often printed on a long, continuous roll of paper, making it easy for staff to lose their place. In addition, in places where the voters are allowed to change their preference multiple times, the printout records each change made by each voter, rather than only their final selections.
+Other problems with these machines have included public access to the software before it is loaded onto machines for each election, as well as programming errors that record votes for candidates other than those selected by voters. Successful hacks have also been demonstrated in certain machines under laboratory conditions.
+
+
+== Optical scanning ==
+
+In an optical-scan voting system, each voter's choices are marked on paper, which is then processed by a image scanner. The scanner creates an electronic image of each ballot, interprets the marked choices, generates a tally for each candidate, and usually stores the image for later review. The voter may mark the paper ballot directly, usually in a designated location for each candidate. Alternatively, the voter may select choices on an electronic screen, which then prints the selected candidates' names and a barcode or QR code summarizing the choices on a paper ballot that is subsequently scanned.
+Several errors in optical-scan systems have been documented, including ballots being fed upside down; multiple ballots being pulled through at once during central counts; paper jams; broken, blocked, or overheated sensors misinterpreting some or many ballots; printing that does not align with the system's programming; programming errors; and loss of files. The cause of the errors are rarely found, so it is not known how many were accidental or intentional.
+
+
+== References ==

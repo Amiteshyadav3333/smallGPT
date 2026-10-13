@@ -1,0 +1,137 @@
+The Right to Information Act, 2005 (RTI Act) is an act of the Parliament of India and the Delhi Legislative Assembly which sets out the rules and procedures regarding citizens' right to access information. It replaced the former Freedom of Information Act, 2002. 
+Under the provisions of the 2005 RTI Act, any citizen of India may request information from a "public authority" (a body of Government or "instrumentality of State") which is required to reply within thirty days, or within 48 hours in case of the matter involving a petitioner's life and liberty. The Act also requires every public authority to computerize their records for wide dissemination and to proactively publish certain categories of information so that the citizens need minimum recourse to request information formally. 
+Although Right to Information is not included as a Fundamental Right in the Constitution of India, it protects the fundamental rights to Freedom of Expression and Speech under Article 19(1)(a) and Right to Life and Personal Liberty under Article 21 guaranteed by the Constitution. The authorities under RTI Act 2005 are called public authorities. 
+
+
+== Background ==
+The RTI Bill was passed by Parliament of India on 15 June 2005 and came into force with effect from 12 October 2005. Every day on average, over 4800 RTI applications are filed. In the first ten years of the commencement of the act, over 17,500,000 applications had been filed.
+The Public Information Officer (PIO) or the First Appellate Authority in the public authorities perform quasi judicial function of deciding on the application and appeal respectively.  This act was enacted in order to consolidate the fundamental right in the Indian constitution 'freedom of speech'. Since RTI is implicit in the Right to Freedom of Speech and Expression under Article 19 of the Indian Constitution, it is an implied fundamental right.
+Information disclosure in India had traditionally been restricted by the Official Secrets Act 1923 and various other special laws, which the new RTI Act overrides. Right to Information codifies a fundamental right of the citizens of India. RTI has proven to be very useful, but is counteracted by the Whistle Blowers Protection Act, 2011.
+The Right to Information (Amendment) Bill, 2019, seeks to amend Sections 13, 16, and 27 of the RTI Act. Section 13 of the original Act: It sets the term of the central Chief Information Commissioner and Information Commissioners at five years (or until the age of 65, whichever is earlier).
+Finally in Ashwanee K. Singh's case on 20 September 2020, it is established that right to information is a fundamental right.
+
+
+=== Activism ===
+Many activists view the Right to Information Act as a final liberation from British colonialism; they describe the RTI law as "a tool for empowering ordinary citizens and changing the culture of governance by making it transparent, less corrupt, participatory, and accountable". They also note that RTI requests provide strategy and substance for activists on a broad range of social issues, including "land and environmental rights, social security benefits, the working of financial institutions, political party financing reform, civic infrastructure, and even public-private partnerships".
+Scholars argue that the Right to Information Act's original intent to make government transparent and accountable is faltering as RTI requests are rejected and the bureaucratic systems are bogged down by thousands of requests. Many RTIs are rejected because the bureaucratic requirements (including the technocratic language used) of filing are too onerous and legalistic for ordinary citizens. Sixty percent of the RTI appeals made to Information Commissioners in Delhi are rejected for a variety of reasons, including that appeals are not typed or not written in English, or lack an index of the papers attached or a list of date. This bureaucratic barrier, worse for those without access to higher education or information, makes the right to information inaccessible. Many citizens have to seek out NGOs, RTI activists, or lawyers, to file their RTIs.
+
+
+== Scope ==
+
+The Act extends to the whole of India. It covers all the constitutional authorities, including executive, legislature and judiciary; any institution or body established or constituted by an act of Parliament or a state legislature. It is also defined in the Act that bodies or authorities established or constituted by order or notification of appropriate government including bodies "owned, controlled or substantially financed" by government, or non-Government organizations "substantially financed, directly or indirectly by funds".
+
+
+=== Private bodies ===
+Private bodies are not within the act's purview. In a decision of Sarbjit Roy vs Delhi Electricity Regulatory Commission, the Central Information Commission also reaffirmed that privatised public utility companies fall within the purview of RTI. As of 2014, private institutions and NGOs receiving over 95% of their infrastructure funds from the government come under the Act.
+
+
+=== Political parties ===
+The Central Information Commission (CIC) held that the political parties are public authorities and are answerable to citizens under the RTI Act. The CIC said that eight national parties - Congress, BJP, NCP, CPI(M), CPI, BSP, NPP and AITC - has been substantially funded indirectly by the Central Government and have the character of public authorities under the RTI Act as they perform public functions. But in August 2013 the government introduced a Right To Information (Amendment) Bill which would remove political parties from the scope of the law. Currently no parties are under the RTI Act and a case has been filed for bringing all political parties under it.
+
+
+=== Amendment ===
+The Right to Information Act 2019 passed on 25 July 2019 modified the terms and conditions of service of the CIC and Information Commissioners at the centre and in states. It had been criticized as watering down the independence of the information commissions, namely by empowering the government to fix the term of service and salaries of information commissioners. Supreme Court of India on 13 November 2019, upheld the decision of the Delhi High Court bringing the office of Chief Justice of India under the purview of the Right to Information (RTI) Act.
+
+
+=== Intelligence and security organisations ===
+As per section 24 of the Act, intelligence and security organisations, both central and state, are exempted from the RTI Act except in cases of corruption or human rights violation. Such central organisations are listed in schedule 2 of the Act. The schedule has been amended four times, in September 2005, March 2008, October 2008 and May 2021.
+
+Intelligence Bureau
+Research and Analysis Wing including its technical wing, Aviation Research Centre
+Directorate of Revenue Intelligence
+Central Economic Intelligence Bureau
+Directorate of Enforcement
+Narcotics Control Bureau
+Special Frontier Force
+Border Security Force
+Central Reserve Police Force
+Indo-Tibetan Border Police
+Central Industrial Security Force
+National Security Guard
+Assam Rifles
+Sashastra Seema Bal
+Directorate General of Income-tax (Investigation)
+National Technical Research Organisation
+Financial Intelligence Unit, India
+Special Protection Group
+Defence Research and Development Organisation
+Border Roads Organisation
+National Security Council Secretariat (secretariat of the National Security Council, in the Cabinet Secretariat)
+Indian Computer Emergency Response Team (CERT-IN)
+
+
+== Governance and process ==
+The Right to information in India is governed by two major bodies:
+
+
+=== Central Information Commission (CIC) ===
+
+Chief Information commissioner who heads all the central departments and ministries- with their own public Information officers (PIO)s. CICs are directly under the President of India. The public authorities and department under Union government of India are required to designate Central Public Information Officer and appellate authority. The CPIO is the initial contact for citizens who request information under the Right to Information (RTI) Act. If a citizen is dissatisfied with the response provided by the State Public Information Officer (SPIO), they may file an appeal with the designated Appellate Authority.
+
+
+=== State Information Commissions ===
+The State Information Commission (SIC) is an autonomous body, that is established by state governments to ensure the public's right to information. The SIC is made up of a State Chief Information Commissioner (SCIC) and up to 10 State Information Commissioners (SIC). The Governor appoints the members of the SIC on the recommendation of a committee. Public authorities and government departments are required to appoint a State Public Information Officer (SPIO) and an appellate authority. The SPIO is the initial point of contact for citizens seeking information under the Right to Information (RTI) Act. If a citizen is dissatisfied with the SPIO's response, they can file an appeal with the appellate authority. As a final recourse, citizens can appeal to the State Information Commission.. The SPIO office is directly under the corresponding State Governor.
+State Information Commissions are independent bodies and Central Information Commission (CIC) has no jurisdiction over the State Information Commission.List of SICs:
+
+Kerala State Information Commission
+Karnataka State Information Commission
+Tamil Nadu Information Commission
+
+
+=== Fees ===
+A citizen who desires to seek some information from a public authority is required to send, along with the application (a Postal order or DD (Demand draft) or a bankers cheque) or a court stamp payable to the Accounts Officer of the public authority as fee prescribed for seeking information. If the person is from a disadvantaged community, he/she need not pay. The applicant may also be required to pay further fee towards the cost of providing the information, details of which shall be intimated to the applicant by the PIO (Public Information Officer) as prescribed by the RTI ACT.
+
+
+=== Digital right to information systems ===
+A digital portal has been set up, RTI Portal, a gateway to the citizens for quick search of information on the details of first Appellate Authorities, PIOs etc. amongst others, besides access to RTI related information disclosures published on the web by various Public Authorities under the government of India as well as the State Governments. It is an initiative taken by Department of Personnel and Training, Ministry of Personnel, Public Grievances and Pensions.
+
+
+== Controversies ==
+The Right to information in India has been mired with controversies ranging from their use in political battles, asking for educational degrees of political rivals, or cases of blatant refusals to provide information on high-profile projects to allegations of misuse by civil society. The backlash against RTI by the state hampered the citizen's right to know.
+
+
+=== Attacks on RTI activists ===
+
+Commonwealth Human Rights Initiative (CHRI) data points to over 310 cases across India where people were either attacked, physically or mentally harassed or had their property damaged because of the information they sought under RTI. The data throws up over 50 alleged murders and two suicides that were directly linked with RTI applications filed. R.T.I. Act 2005 applies to both central as well as state governments. It also covers the acts and functionaries of the public authorities. These incidents have also served as an inspiration for the 2008 Hindi feature film Halla Bol.
+There is a consensus felt that there is a need to amend the RTI Act to provide for the protection of those seeking information under the Act. The Asian Centre for Human Rights recommends that a separate chapter, "Protection of those seeking information under the (RTI) Act", be inserted into the Act.
+Protection measures suggested include:
+
+Mandatory, immediate registration of complaints of threats or attacks against RTI activists on the First Information Report and placing such FIRs before the magistrate or judge of the area within 24 hours for issuance of directions for protection of those under threats and their family members, and periodic review of such protection measures
+Conducting inquiry into threats or attacks by a police officer not below the rank of Deputy Superintendent of Police/Assistant Commissioner of Police to be concluded within 90 days and we also use RTI and get its benefit.
+
+
+=== Intellectual property rights ===
+Many civil society members have recently alleged the subversion of the right to information Act by the invocation of Intellectual Property rights argument by the government agencies from time to time.
+Most notable are: 
+
+The Right to Information denied by RBI on Demonetization citing Intellectual Property Laws.
+The Right to Information Denied by Uttar Pradesh Irrigation Department after more than 8 months of a wait on under construction Gomti Riverfront Development Project. A group of researchers requested for environment Impact and Project Report on the project which is flagged for negative impacts, tax money wastage by environmental scientists and research reports.
+
+
+=== Banned people from filing RTI ===
+Gujarat State Information Commission banned 10 people from filing RTI queries, citing that these people were "harassing government officials" by filing multiple queries with "malafide intentions". This was the first time in Gujarat that a ban on filing RTI inquiries took place, noted NGO Mahiti Adhikar Gujarat Pahel, also stating that no provision in the act allowed for the blacklisting of applicants. Similar cases have been reported for Delhi, Karnataka, Odisha and Punjab State information commissions, usually justified under the basis of harassment of employees and misuse or abuse of RTI provision. The validity of CIC or SIC to ban individuals to exercise right to information is criticized, especially since the RTI act does not make such provisions for either of the bodies.
+
+
+== See also ==
+Attacks on RTI activists in India
+National Data Sharing and Accessibility Policy – Government of India
+Parinamika, the former organisation for right to information among Indian citizens
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Right To Information Ministry Websites and their RTI links Search
+Complete text of the Right to Information Act
+ONLINE RTI
+CIC - The Central Information Commission is empowered to decide complaints and appeals arising from use of the Right to Information Act, 2005.
+CIC Online - New website of the Central Information Commission for filing complaints and appeals arising from use of the Right to Information Act, 2005.
+DoPT - The Department of Personnel and Training, Ministry of Personnel, Public Grievances, and Pensions, is charged with being the nodal agency for the Right to Information Act, 2005. It has the powers to make rules regarding appeals, fees, etc.
+Right to Information Act Portal
+State RTI Portals:
+Kerala RTI Portal - Kerala Government's online portal to file, track and pay RTI application.
+Tamil Nadu

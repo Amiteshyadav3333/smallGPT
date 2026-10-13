@@ -1,0 +1,253 @@
+The Judiciary of India (ISO: Bhārata kī Nyāyapālikā) is the system of courts that interpret and apply the law in the Republic of India. The Constitution of India provides concept for a single and unified judiciary in India. India uses a mixed legal system based majorly on the common law with civil laws applicable in certain territories in combination with certain religion specific personal laws.
+The judiciary is made in three levels with subsidiary parts. The Supreme Court is the highest court and serves as the final court of appeal for all civil and criminal cases in India. High Courts are the top judicial courts in individual states, led by the state Chief Justice. The High Courts manage a system of district courts headed by the various District and Session Courts in their respective jurisdictions. The executive and revenue courts are managed by the respective state governments through the district magistrates or other executive magistrates. Although the executive courts are not part of the judiciary, various provisions and judgements empower the High Courts and Session Judges to inspect or direct their operation.
+The Chief Justice of India, other judges of the Supreme Court and the High Courts are appointed by the President of India on the recommendation of a collegium system consisting of judges of the Supreme Court. Judges of district judiciaries are appointed by the governors on the recommendation of the respective High Courts.
+At the Union level, the Ministry of Law and Justice is responsible for formulating laws and addressing issues relating to the judiciary with the Parliament. It has jurisdiction to deal with the issues of any court and also deals with the appointment of the various judges of the Supreme Court and the High Courts. At the state level, the respective law departments of the states deal with issues regarding the High Court and the district courts.
+
+
+== Constitution ==
+The Constitution of India empowers the judiciary to act as the Guardian of the Law. A number of provisions deal with the judiciary's role, power, function, and officer appointments. The major provisions are:
+
+Part V - Chapter IV - Union Judiciary i.e., Supreme Court - appointment and removal, role and function
+Part VI - Chapter V - High Court - appointment and removal, role and function
+Part VI - Chapter VI- District Courts - appointment and removal, role and function
+Article 50 - Independence of Judiciary - separates judiciary from executive branch
+Other provisions appear under parts and articles that deal with the court's responsibilities.
+The judiciary acts as the arbiter on legal matters. The judiciary acts as the Constitution's watchdog by calling for scrutiny any act of the legislature or the executive from overstepping bounds set for them by the Constitution. It acts as a guardian in protecting the fundamental rights of the people, as enshrined in the Constitution, from infringement by any organ of the state. It also balances the conflicting exercise of power between the centre and a state or among states.
+The judiciary is expected to remain unaffected by pressures exerted by other branches of government, citizens or interest groups. The independence of the judiciary is a basic and inalienable feature of the Constitution, One such protection is that no minister can suggest a name to the President, who ultimately appoints judges from a list recommended by the collegium system. Judges of the Supreme Court or a High Court cannot be removed from office once appointed, unless a two-thirds majority of members of any Houses of the Parliament back the move on grounds of misconduct or incapacity. A person who has been a judge of a court is barred from practicing in the jurisdiction of that court.
+Judge strength refers to the maximum number of judges that the court is allowed to have.
+
+
+=== Appointment ===
+
+Under Parts V and VI of the Constitution, the President of India appoints Judges of the Supreme Court and High Court with the consent of the Chief Justice. In practice, the appointment of judges to the Supreme Court and High Courts in accordance with the principles set forth in the Three Judges Cases. The President selects from a list recommended by the collegium system – a closed group consisting of the Chief Justice and the most senior judges of the Supreme Court. Prior to the Three Judges Cases, the President appointed judges upon their recommendation by the Union Cabinet. In 1993, as a result of the Second Judges Case, the executive was given the power to reject a name recommended by the judiciary. The executive has since faced criticism for its decisions relating to this power.
+Decisions by the collegium have been the subject of legal scrutiny. In Mahesh Chandra Gupta vs. Union of India and Ors., the court held that who could become a judge was a matter of fact, and that any person therefore had a right to question the court's determination regarding a candidate's qualifications. However, the court also wrote that who should become a judge was a matter of opinion and could not be questioned. As long as a judge's appointment is the subject of a legitimate consultation by the collegium, the content or material it uses to form its opinion cannot be scrutinized by a court.
+In contrast to the historical norms concerning Supreme Court and High Court appointments, appointments for District Court Judges are handled as prescribed under the Constitution and other laws and codes. Appointments are generally made by the Public Service Commission of a particular state. However, in some states, the respective High Court can appoint judges of district courts. Regardless of the source of the appointment, the process for the appointment of judges is the same, and is based on the results of a competitive examination. Junior Division civil judges may advance to judicial positions in the Provincial Civil Service, while entry level district judges with at least 7 years of experience can complete the Higher Judicial Service (HJS) exam in order to advance.
+
+
+== History ==
+The history of jury trials in India dates to the period of European colonisation. In 1665, a petit jury in Madras composed of twelve English and Portuguese jurors acquitted Ascentia Dawes, who was on trial for the murder of her enslaved servant. During the period of Company rule in India, jury trials within dual-court system territories were implemented in Indian territories under East India Company (EIC) control. In Presidency towns (such as Calcutta, Bombay, and Madras), Crown Courts employed juries to judge European and Indian defendants in criminal cases. Outside of Presidency towns, Company Courts staffed by EIC officials judged both criminal and civil cases without the use of a jury.
+In 1860, after the British Crown assumed control over the EIC's possessions in India, the Indian Penal Code was adopted. A year later, the Code of Criminal Procedure was adopted. These provisions stipulated that criminal juries were only mandatory in the High Courts of Presidency towns; in all other parts of British India, they were optional and rare. In cases where the defendants were either European or American, at least half of the jury was required to be European or American men, with the justification given that juries in these cases had to be "acquainted with [the defendant's] feelings and dispositions."
+During the 20th century, the jury system in British India came under criticism from both colonial officials and independence activists. The system received no mentions in the 1950 Indian Constitution and went unimplemented in many jurisdictions after independence. In 1958, the Law Commission of India recommended its abolition in the 14th commission report that was submitted to the Indian government. Jury trials in India were gradually abolished during the 1960s, culminating with the 1973 Criminal Procedure Code, which was replaced by the Bharatiya Nagarik Suraksha Sanhita
+
+
+=== Evolution of independent judiciary ===
+The Sapru Committee Report, published in 1945, considered the judiciary in detail and reiterated what the Government of India Act 1935 had set out: a Federal Court of India would be established as the highest court. To separate the judiciary from the executive, the Sapru Committee suggested that judges have fixed salaries and tenures, and that they could only be removed for gross misbehaviour. Judges were to be appointed by the President of India in consultation with the Chief Justice. The committee appointed to deal with judicial questions as part of the Constituent Assembly in 1946 was influenced by the Sapru Report, though there was concern over the power given to the President. Jawaharlal Nehru, however, supported the Sapru Committee's proposals. In 1949, Nehru said that Constituent Assembly judges ought to be individuals of "the highest integrity," who could "stand up against the executive government, and whoever may come in their way." B. R. Ambedkar emphasized the need for judicial independence stating, "There can be no difference of opinion in the House that our judiciary must both be independent of the executive and must also be competent in itself." Finally, the Constitution stated that "Every Judge of the Supreme Court shall be appointed by the President by warrant under his hand and seal after consultation with such of the Judges of the Supreme Court and of the High Courts in the tates as the President may deem necessary for the purpose," given that "in the case of appointment of a Judge other than the Chief Justice, the Chief Justice of India shall always be consulted."
+In his book Independence and Accountability of the Indian Higher Judiciary (Cambridge University Press, 2019), Arghya Sengupta has analysed the balance between judicial independence and public accountability.
+
+
+== Judicial hierarchy ==
+
+
+=== Courts structure ===
+
+
+=== Supreme Court ===
+
+The Supreme Court is the highest court established by the Constitution. The Constitution states that the Supreme Court is a federal court, guardian of the Constitution, and the highest court of appeal. Articles 124 to 147 of the Constitution lay down the court's composition and jurisdiction. Primarily, it is an appellate court that takes up appeals against judgments of the High Courts of the states and territories. It also takes writ petitions in cases of serious human rights violations or any petition filed under Article 32, which is the right to a constitutional remedy, or if a serious case involves needs immediate resolution.
+The Supreme Court comprises the Chief Justice and 33 judges.
+It first sat on 26 January 1950, the day India's Constitution came into force, and thereafter delivered more than 24,000 reported judgements.
+Proceedings are conducted in English only. The Supreme Court Rules of 1966 were framed under Article 145 of the Constitution, which exists to regulate its practices and procedures. Article 145 was amended and is governed by the Supreme Court Rules of 2013.
+
+
+=== High courts ===
+
+25 High Courts operate at the state level. Article 141 of the Constitution mandates that they are bound by the judgements and orders of the Supreme Court of India by precedence. These courts have jurisdiction over a state, a union territory or a group of states and union territories. High courts were instituted as constitutional courts under Part VI, Chapter V, Article 214 of the Constitution.
+
+The High Courts are the principal civil courts of original jurisdiction in the state (along with the District Courts). However, civil and criminal jurisdiction applies only if district courts are not authorized to try matters for lack of pecuniary or territorial jurisdiction. High Courts may enjoy original jurisdiction in certain matters if so designated in a state or federal law. For example, company law cases are instituted only in a high court.
+The primary work of most High Courts consists of deciding appeals from lower courts, and writs in terms of Article 226 of the Constitution. Writ jurisdiction is also an original jurisdiction of High Courts. The precise territorial jurisdiction of each High Court varies by province.
+Judges of the High Court are appointed by the President after consultation with the Chief Justice of India, Chief Justice of the High Court, and the state governor. The number of judges in a court is decided by dividing the average institution of main cases during the last five years by the national average, or the average rate of disposal of main cases per judge per year in that High Court, whichever is higher.
+The Madras High Court is the oldest High Court, established on 26 June 1862, while the Allahabad High Court is the largest, consisting of 160 judges.
+High Courts that handle large numbers of cases have permanent benches (or a branch of the court). For litigants of remote regions, 'circuit benches' work on those days when judges visit.
+
+
+=== District Courts ===
+
+The District Courts of India are established by state governments for every district or group of districts, taking into account the number of cases and population distribution. These courts are under administrative control of the state's High Court. Decisions are subject to the appeal to the High Court.
+The District Court is presided over by one District Judge appointed by the Governor with the consultation of High Court. Additional District Judges and Assistant District Judges may be appointee depending on the workload. The Additional District Judge has equivalent jurisdiction as the District Judge. The District Judge is called a "Metropolitan sessions judge", when he is presiding over a District Court in a city which is designated a "Metropolitan area" by the state government.
+The District Court has appellate jurisdiction over district courts on all matters. District courts, on the civil side (in ascending order) are Junior Civil Judge Court, Principal Junior Civil Judge Court, Senior Civil Judge Court (also called sub-court). District courts, on the criminal side (in ascending order) are, Second Class Judicial Magistrate Court, First Class Judicial Magistrate Court, Chief Judicial Magistrate Court. In Family Courts deal with matrimonial disputes.
+Family Court and Mahila Court matters are handled by the Principal Judge. The Judges appointed to this post are from the pool of District Judges. In Maharashtra, Andhra Pradesh and some other states, judges are appointed from the pool of retired judicial officer either directly or through exam.
+
+
+=== Structure of Civil Courts ===
+Supreme Court of India (apex appellate court)
+High Courts (highest appellate court in the states)
+Metropolitan area:
+
+District Courts
+Additional District Courts
+Courts of Senior Civil Judges
+Courts of Junior Civil Judges
+District Level:District level civil courts is given below (ascending order):
+
+District Courts
+Additional District Court
+Sub Courts (Courts of District judges)
+Additional Sub Courts (Courts of Additional District judges)
+Munsif Court/ Court of Junior Civil Judge
+
+
+=== Structure of Criminal Judiciary ===
+Supreme Court of India (apex appellate court)
+High Courts (apex appellate court in the states)
+Metropolitan area
+
+Chief Metropolitan Magistrate Courts (CMM)
+Courts of Metropolitan Magistrates (MM)
+District Level District level Criminal Courts is given below (ascending order):
+
+District and Sessions Court
+Additional Sessions Court
+Assistant Sessions Court
+Chief Judicial Magistrate Court (CJM Court)
+Additional Chief Judicial Magistrate Court
+Courts of Judicial Magistrate of First Class (JFCM Court)
+Courts of Judicial Magistrate of Second Class
+
+
+=== Executive Court ===
+Below the judicial hierarchy sits the executive hierarchy. In pursuance of the scheme of separation of executive from the judiciary under Art 50 of the Constitution. Cr.P.C. empowers the Executive Court to deal with petty offences, but the power does not imply that they hold judicial power. Section 3 of CrPC clearly splits matter to be handled by both magistrates. Section 20 of CrPC empowers the State Government to appoint Executive Magistrates (EM) in every metropolitan area and in every district. It has the authority to appoint one Executive Magistrate as the District Magistrate and to appoint any EM as the ADM. Such a magistrate has the same power as enjoyed by the District Magistrate (DM).
+If the office of a DM is left vacant then any officer who temporarily succeeds to the executive administration of the district exercises the same power as enjoyed by the DM. The State Government is empowered to give charge of a sub-division to the EM, who is called Sub-divisional Magistrate. The EM role generally is to maintain law and order under section 107–110, 133, 144, 145, and 147 of the CrPC., cancelling or granting licenses, handling land acquisition matters, or any other matter raised by state government.
+Section 21 empowers state government to appoint special Executive Magistrates (Sp. EM). Under Section 20(5) of Crpc, the Commissioner of Police (CP) can be appointed as EM, but only when the district is declared by state government as a Commissionerate. The DG(P) holds the rank of CP but can not exercise power of EM (special) until his designation changes into CP. The appeal of executive court lies in the court of Session Judge or Additional Session Judge of the district or to the High Court.
+
+
+=== Revenue Court ===
+To deal with the land revenue matters, each state established a Revenue Court. These courts adjudicate matters related to:
+
+land revenue
+tenancy (ownership - in a loose sense)
+property boundaries
+succession
+land transfers
+partition of holdings
+removal of encroachments, eviction of trespassers, and in some states, declaratory suits.
+The Revenue Court is a quasi-judicial body and holds only limited power to deal with specific civil matters. As per Section 5(2) of Civil Procedure Code; Revenue Courts have jurisdiction to deal with suits related to rent, revenue or profits of land used for agricultural purposes, but does not include civil court matters. Therefore, certain matters of the Revenue Courts are barred from jurisdiction of Civil Courts as specified under the code. The Court of Additional Commissioner and above are appellate courts. However, it is a state controlled organization. Generally the officers of the rank of Collector and above ar from the pool of the Indian Administrative Service, while lower positions can be from either IAS or SAS and inferior to that are from the State Administrative Services.
+
+
+=== Village courts / Panchayat / Rural Court ===
+Village courts, Lok Adalat (people's court) or Nyaya panchayat (justice of the villages), offer alternative dispute resolution. They were recognized through the 1888 Madras Village Court Act, then developed (after 1935) in various provinces and (after independence) Indian states.
+The model from Gujarat State (with a judge and two assessors) was used from the 1970s onwards. In 1984 the Law Commission recommended to create Panchayats in rural areas with laymen ("having educational attainments"). The 2008 Gram Nyayalayas Act had foreseen 5,000 mobile courts in the country for judging petty civil (property cases) and criminal (up to 2 years of prison) cases. However, the Act was not enforced, with only 151 functional Gram Nyayalayas in the country (as of May 2012) against a target of 5000. The major reasons were include financial constraints, reluctance of lawyers, police and other government officials.
+
+
+=== Key differences between the various courts ===
+
+
+== Compensation ==
+
+
+=== Supreme Court and High Court judges ===
+The Supreme Court and High Court judges are paid from the Consolidated fund. The Supreme Court judges (Salaries and Condition) Act deals with the compensation for Supreme Court judges while the High Court Judges (Salaries and Condition) Act (1954) regulate the compensation of High Court judges. Whenever compensation is amended, the Central Government must present it as a normal bill before Parliament.
+
+
+=== District judiciary ===
+NJPC decides the pay scale, allowances, facilities, etc. for district judiciaries throughout the country. This commission was set up by the Government to comply with a Supreme Court order. The recommendations of NJPC, when accepted by the Supreme Court (after hearing any objection of Central or State Govt.), become binding The commission was set up based on recommendations from All Indian Judges Association. The Chief Justice of India recommended that the central government constitute a permanent body to avoid unnecessary delays.
+The first National Judicial Pay Commission (NJPC) was constituted on 21 March 1996 on the order of Supreme Court in the landmark judgment All India Judges Association v UOI. The commission was headed by Justice K. J. Shetty (Ex- Supreme Court Judge). The commission submitted its report in 1999. It recommended raising the salaries of the district judiciary and fixed their overall compensation. Ten years later, the second NJPC was headed by P.V. Reddi (Ex-Judge SC).
+
+
+=== Position and designation held by Judges (in hierarchy) in their career and pay scale ===
+
+
+=== Career progression ===
+A judicial officer typically begins his or her career as a civil judge in a Court of Judicial Magistrate of First Class (JMFC). After seven years of experience judges can be appointed to the post of District Judge via a competitive examination. The retirement age for the judicial officers is 60 years in the District court, 62 years in the High Courts, and 65 in the Supreme Court.
+All officers belonging to the Judicial Services, from entry-level to topmost position, falls under Group-A (Gazetted) Service. Entry-level positions in the Courts of Judicial Magistrate of First Class are generally considered probationary, or training posts. After completing the probationary assignment, a candidate is posted either as Judicial Magistrate of First Class in the criminal side, or in the District Munsiff Court for civil appointments. Unlike many Indian Union civil service officer positions, judicial roles are mostly field positions. In order to allow officers to diversify their experience, many deputy posts answering to higher judiciary officers were created. Officers are not initially placed in these deputy roles, but after several years of courtroom experience they may receive such an appointment. After five years in the junior division, an officer is eligible to be promoted to Civil Judge (Senior Division).
+In 1996, the first National Judicial Pay Commission (NJPC), popularly known as the Shetty Commission was created by Supreme Court Justice K.J. Shetty to examine the issues of district judiciaries and set uniform service conditions. The first NJPC introduced the Assured Career Progression (ACP) scheme in order to assure district judicial officers of benefits in the event of delayed career progression. According to the ACP scheme, if an officer's promotion is delayed, after a span of five years of service in their respective grade they are entitled to receive the first stage of the increased ACP pay scale for the next five years. If they are not promoted for another five years, their pay scale under the ACP is increased accordingly. In 2017, the 2nd NJPC revised the pay and service conditions of district judiciaries with the objective to attract talent.
+The same methodology is applied at the level of District Judge. After completing the required service in the senior division the High Court, with the consent of the Governor of the respective state, they are eligible for promotion to the cadre of entry level District Judge or Additional District and Session Judge (ADJ). When District Judges are vested with administrative power, they are known as Principal District and Session Judges.
+The officers of Junior and Senior division are subordinate to the District and Session Judges and also to CJMs. ADJs are under the general control of their respective high courts. Specific judicial officers are vested with certain special powers as Special Judges or Magistrates to deal with specific matters regarding their areas of practice (e.g. railway, MP-MLA-Ministers, Terrorism, or other specific departments), as needed.
+One-third of High Court judges are filled from the District Judiciary. High Court and Supreme Court judges are Constitutional posts, and have strict processes for appointment that take more time. Several Supreme Court judges were promoted from the District Judiciary. Most judicial officers appointed directly from the bar as a District Judge or in areas of higher judicial service (HJS) have a chance of promotion to the High Court, and potentially to the Supreme Court.
+Various departments and ministries were created by state and union government to broaden the experience of judicial officers. State government-created positions range from undersecretary to principal secretary. Union ministries include Deputy Secretary posts, which typically answer to officers in the High Courts and the Supreme Court. Temporary deputy posts for officers of certain judicial rankings provide similar perks and career allowances to comparable civil servants. The most common departments involving deputations of judicial officers at civil secretarial posts are- Law and Justice Ministry, Legal Affairs Department, and Legislative Department.
+
+
+== Judicial academies ==
+The institute provides training to District Judiciary officers on topics that State Judicial Academies do not cover. It also offers training to High Court judges of states and judges and judicial officers of other nations. Indian judicial academies:
+
+
+== Criticism and controversies ==
+According to the World Bank, "although India's courts are notoriously inefficient, they at least comprise a functioning independent judiciary"
+Citizens are, after many negative experiences, often unaware of their rights, or resigned to their fate before an inefficient court. Court efficiency is crucial, as a backlog of cases creates opportunities for corruption.
+Judiciary issues have been depicted in several films, such as Court.
+
+
+=== Backlog ===
+
+The Indian judiciary is overburdened far beyond capacity with a backlog of cases. Nearly 1,82,000 cases have been pending for over 30 years. According to National Judicial Data Grid, Indian courts had 27% rise in backlog between December 2019 and April 2022.
+In 2024 India's ratio of judges to population is 21 per million people, which is one of the lowest in the world. In 2002, the Ministry of Law and Justice set a goal of increasing that number to 50. For comparison, the United States as 120. At the current rate, it would take 300 years for the courts to resolve current cases. Many people have cases pending for decades. As of May 2022, India has a sanctioned strength of 25,628 judges with 4.7 crore(47 million) cases pending in judiciary.
+The legal maxim justice delayed is justice denied is honored only in the breach. On average about 20% of approved judicial positions are vacant. The annual backlog increase is less than 2%. If the vacancies were filled, the backlog would decline. Minor infractions make up nearly half of pending cases.
+In 2015, some 400 vacancies were reported in the 24 high courts. The Supreme Court backlog is 70,572 as of May 2, 2022. Some 30 million cases await resolution in various courts. The budget allocation is a 0.2 per cent of gross domestic product. The judge-population ratio is 10.5 to one million, about 20% of the recommended 50 to one million.
+The government is the largest single litigant, adding cases to the docket, losing most, and then appealing to the next court. The Law Commission found that most such appeals were pointless.
+Jagdev claimed that the judiciary does not attract the best legal talent in part because of disparity in compensation. In recent years scandals have besmirched the judiciary's reputation. The District judiciary works in appalling conditions.
+On 12 January 2012, the Supreme Court said that confidence in the judiciary was decreasing, posing a threat to the country. It acknowledged the problems of vacancies in trial courts, unwillingness of lawyers to become judges, and the failure of the apex judiciary in filling vacant HC posts. One proposal is that access to justice must be made a Constitutional right requiring the executive to provide the necessary infrastructure for protecting that right. The Court also wanted the Government of India to detail the work being done by the National Mission for Justice Delivery and Legal Reforms.
+Undertrials outnumber convicts in the prison population. Ordinary citizens have been imprisoned for espionage for overstaying their visa or straying across international borders, languishing in prison for years due to the slow redressal process. According to Prison Statistics- India 2015, 67.2% of the total prison population of India is under trial, which means they have not yet(by 2015) been convicted by the court.
+To reduce pendency, 'Fast-track courts', 'Evening courts/Morning courts' were set up and met with mixed success. Mobile courts were set up to bring 'justice at the doorsteps' of litigants of judge-poor rural areas. Virtual courts were also setup in 2020, though at present it is used for traffic violations under the Motor Vehicles Act.
+Lok Adalats is an informal, alternative mechanism that has been a success in tackling backlogs, especially in pre-litigation matters, settling cases before they enter the courts.
+According to a report released by Centre for Public Policy Research and British Deputy High Commission, "a total of 16,884 commercial disputes [are] pending in High Courts with original jurisdiction. Of these, the Madras High Court tops with 5,865. With the number of commercial disputes growing rapidly, facilitating a seamless dispute resolution system through alternate means has become crucial."
+Economists Boehm and Oberfeld calculated that the backlog costs the Indian economy several percentage points of GDP. In 2025 DAKSH, Bengaluru-based think tank, the amount involved in pending cases before commercial tribunals in India is ~7.5% of GDP.
+
+
+=== Judicial corruption ===
+
+According to Transparency International, judicial corruption in India is attributable to factors such as "delays in the disposal of cases, shortage of judges and complex procedures, all of which are exacerbated by a preponderance of new laws". Corruption has reached the Supreme Court. Notable cases include:
+
+In December 2009, legal activist and lawyer Prashant Bhushan stated in court, "out of the last 16 to 17 Chief Justices, half have been corrupt" In November 2010, former Law Minister, Shanti Bhushan echoed Prashant Bhushan's claim.
+There have been allegations that judges with doubtful integrity were elevated within the higher judiciary and campaigns held for their impeachment.
+In 2011, Soumitra Sen, former judge at the Calcutta High Court became the first judge in the India to be impeached by the Rajya Sabha for misappropriation of funds. However, the impeachment proceedings were dropped after Sen choose to resign.
+In November 2011, a former Supreme Court Justice Ruma Pal slammed the higher judiciary for what she called the seven sins. She listed the sins as:
+Turning a blind eye to the injudicious conduct of a colleague.
+Hypocrisy – the distortion of the norm of judicial independence.
+Secrecy – lack of transparency in the appointment of judges to the High and Supreme Court.
+Plagiarism and prolixity – SC judges often lift whole passages from earlier decisions without acknowledgement – and use long-winded, verbose language.
+Arrogance – the higher judiciary has claimed superiority and independence to mask their own indiscipline and transgression of norms and procedures.
+Professional incompetence – judges arrive at decisions of grave importance ignoring precedent or judicial principle.
+Nepotism – wherein favors are sought and dispensed by some judges.
+In March 2025, large bundles of cash, some burnt, were found in the house of Delhi High Court Judge Yashwant Varma by the fire department, after a fire was reported at his house, reigniting a major controversy on judicial corruption. The Supreme Court declined to hear a plea seeking an FIR against Varma following the expose. Despite the demands to have him removed and suspended, Varma was transferred to the Allahabad High Court, sparking a backlash from lawyers and other judges. An impeachment process against Verma was due to be initiated in the Parliament monsoon season in July 2025. However, Verma resigned before the process could take place, although he was allowed to keep his pension and post retirement benefits.
+On 26 February 2026, the Supreme Court slammed the NCERT, after a class 8 social science textbook revealed a section on corruption in judiciary. Calling it a deep-rooted conspiracy to defame and undermine the judiciary, the Chief Justice Surya Kant, in a suo motu case hearing, called the move to teach pupils about judicial corruption and pendency of cases as reckless, and ordered that the books should not be issued to students.
+
+
+=== Nepotism ===
+
+Uncle judge syndrome is a nepotistic phenomenon in the Indian judiciary where the collegium system, the opaque system of which the incumbent judges of the Supreme Court of India appoint new judges, is misused to appoint family and relatives of the judges. In 2017, the Supreme Court had recognised the rot of the collegium, but as of 2025 little has been done to fix it. In 2015, a research by advocate Mathews J Nedumpara claims that around 50% of the High Court judges and 33% of the Supreme Court judges are family members of those in higher echelons of judiciary, with six Supreme Court judges were sons of former judges and over 88 High Court judges were either born to a family of lawyers, judges, or worked under some legal luminaries. While in 2022, former Minister of State for Human Resource Development Upendra Kushwaha noted that judges of Supreme Court so far have come only from 250-300 families, and there is negligible representation of women and Scheduled Castes in the higher judiciary. The Parliament of India attempted to abolish the collegium system in 2014 by establishing the National Judicial Appointments Commission through the National Judicial Appointments Commission Act, 2014 and the Constitution (99th Amendment) Act, 2014. However, in October 2015, the Act and the Constitutional amendment was struck down by the Constitution Bench of the Supreme Court.
+Jasti Chelameswar, a Supreme Court judge, who was a part of the NJAC verdict of 2015, gave a dissenting opinion, stating that the NJAC could have acted “as a check on unwholesome trade-offs within the collegium and incestuous accommodations between Judicial and Executive branches.” He had criticized the existing collegium system of appointing judges, which he said had become "a euphemism for nepotism", where "mediocrity or even less" is promoted and a "constitutional disorder" does not look distant.
+
+
+=== Judicial incompetence, aristocracy and double standards ===
+The Indian judiciary has been stated to be notoriously incompetent in several cases, as well as having an aristocratic mindset of superiority. For this reason, criticizing the judiciary has been considered as a contempt of court. This reduces the faith of the citizens on the judiciary because of such mindsets of judges, who are not open to criticism for erroneous and irresponsible judgements. Additionally, several male judges have granted bail to culprits accused of rape, showcasing misogyny and patriarchal mindsets, further fueling distrust.
+In some cases, several judgements by some judges have earned backlash from senior and experienced judges, as well as media houses. Such backlashes have led to such judges to be dismissed by the bar council, or forcing them to resign. On 19 February 2022, Pushpa Virendra Ganediwala, an additional judge for the Bombay High Court, was forced to resign after a series of poor judgements in several sexual assault cases, before she could be made permanent. To improve the situation of the judiciary in India, Advocate Juhi Damodar and Dr Edmond Fernandes pointed out by the Indian Judiciary needed serious capacity building at all levels. Former Chief Justice of India, Ranjan Gogoi, called the judiciary ramshackled and stated it was useless going to courts.
+The judiciary has also been criticized for double standards on certain matters, such as insensitive comments against a particular group of people in the society, especially against women. Despite complaints against political figures making such comments, they are rarely given jail time, disqualified from holding any official positions, receiving summons or arrest warrants. Furthermore, it is easier for them to obtain bail, which does not get canceled at all, allowing them to conduct political activities. The judiciary has subsequently faced flak for being pro-rich and anti-poor in certain cases, due to which public outrage has intensified, especially in cases of rape and murder.
+During the 2025 India–Pakistan conflict that occurred after the Pahalgam terrorist attack, the judicial system came under fire for hypocritical judgments. In one case, a Muslim teenage student from Pune, Khadija Sheikh, who posted about criticism of Operation Sindoor on social media and supported Pakistan, was expelled from the institution and arrested under various sections of Bharatiya Nyaya Sanhita, following which she approached the Bombay High Court and was granted bail. In another case, Sharmistha Panoli, a law student and influencer, also from Pune, who uploaded a video criticizing Pakistan with profanities, was arrested by the Kolkata Police under charges of hurting religious sentiments and was denied bail by the Calcutta High Court. The decision to deny bail to Panoli received criticism from the Bar Council of India, who sought her release. As a result of these 2 cases apart from many others, the Indian Judicial system received widespread condemnation for religious appeasement from political circles.
+
+
+=== Anti-women judgements ===
+The Indian judiciary has faced fire from several women's rights activists, media outlets, as well as lawyers for making absurd decisions regarding crimes against women, despite laws to protect them from severe crimes like rape, molestation, groping, eve-teasing, and much more. In several cases, culprits have been acquitted or granted bail despite evidences and posing of risk, and that charges against them have been dropped or downgraded. Despite demands to criminalize marital rape, where in certain cases, victims have died due to severe injuries by the sexual assault, the judiciary at every stage remains deaf to the pleas of the women and have acquitted the accused on frivolous grounds. Additionally, despite requests and pleas from lawyers of rape survivors/victims, culprits have been granted bail, which has allowed them to commit rape again or even murder their victims. The slow legal proceedings, granting of bail to culprits during trial, incompetence and insensitive statements by judges and lawyers have forced rape survivors and their kin to law in their hands and kill the accused, which has led to the judiciary being harsher on the survivors and the family members rather than the accused themselves. In 2002, a Kerala man named Shankara Narayanan killed his daughter's rapist and murderer after he was granted bail during trial, which outraged Narayanan. Narayanan surrendered to the police and was convicted by a sessions court for the murder and sentenced to life imprisonment, but in 2006, the Kerala High Court set aside the conviction and released him citing lack of evidence and grave injustice.
+In March 2021, then Chief Justice Sharad Bobde came under intense fire and scrutiny during the hearing of anticipatory bail to a rape accused, when he asked "Will you marry her?". Subsequently, women's rights and progressive groups called Bobde to step down for his insensitivity and incompetence.
+
+
+=== Judicial Stress ===
+Judicial stress and mental health of judiciary, which has been a neglected topic has found recent highlight wherein, Madras High Court stated that the health of judges is affected due to workload.
+Dr Edmond Fernandes, Honorary Director, Edward & Cynthia Institute of Public Health also highlighted how judicial stress snowballs into spinal problems, disc bulge, gastrointestinal problems, ergonomics issues and mental health capabilities.
+
+
+=== Lack of Accountability, Inconsistency and Procedural Inefficiencies ===
+According to the Constitutional Bench of the Supreme Court stated in the K. Veeraswami v. Union of India case of 1991, the Chief Justice of India has to be consulted before a FIR or criminal proceedings can be initiated against a sitting judge. This was to safeguard judicial independence from frivolous and politically motivated prosecutions. However, the requirement has been criticized by legal scholars and commentators as it limits judicial accountability and creating procedural hurdles into investigating allegations against sitting judges for misconduct and corruption.
+Legal commentators have criticized the judiciary for inconsistency in application of bail principles, particularly in cases involving high profile politicians and public figures. Critics argue that such inconsistency has created distrust due to unequal treatment, and that some public figures or politicians who are granted on bail on frivolous grounds found violating the bail terms and conditions and rarely face action or cancellation of bail. Such procedural lapses have also been observed with cases under the Juvenile Justice Board for showing extreme leniency for serious charges.
+
+
+== E-Courts Mission Mode Project ==
+The E-courts project was established in 2005 to digitize the courts. In 2008, all the District Courts were initialised under the project. In 2010, all District Courts were computerised. Digital services began in the Supreme Court in June 2011. The case lists and the judgements of most District Courts were available Data is updated daily. Most District and Taluka Courts in the country are computerised. Cause list of each of the Court are available.
+In August 2026 Swiss newspaper Neue Zürcher Zeitung reported, although computers were widely available in Indian courts, all documents were still required in paperform. 
+Judicial service centres are available for all courts. The public assess case status, stage and next hearing dates.
+
+
+== See also ==
+Law of India
+Constitution of India
+Three Judges Cases
+Supreme Court of India
+Minister of Law and Justice
+Law enforcement in India
+Pendency of court cases in India
+National Judicial Appointments Commission
+
+
+== References ==
+
+
+== Further reading ==
+National policy and action plan for implementation of IT in the Indian judiciary

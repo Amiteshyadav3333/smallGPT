@@ -1,0 +1,205 @@
+"Devolution of funds under Panchayati Raj System - Standing Committee Report Summary". PRS Legislative Research. 31 July 2025. Retrieved 9 September 2026.
+
+Local government in India is a governmental jurisdiction below the level of the state. Local self-government means that residents in towns, villages and rural settlements are the people who elect local councils and their heads authorising them to solve the important issues. India is a federal republic with three spheres of government: union, state and local. The 73rd and 74th constitutional amendments give recognition and protection to local governments and in addition, each state has its own local government legislation. Since 1992, local government in India takes place in two very distinct forms. Urban localities, covered in the 74th amendment to the Constitution, have a Municipality but derive their powers from the individual state governments, while the powers of rural localities have been formalized under the panchayati raj system, under the 73rd amendment to the Constitution.
+Within the Administrative setup of India, the democratically elected Local governance bodies are called the "municipalities" (abbreviated as the "MC") in urban areas and the "Panchayati Raj Institutes (PRI)" (simply called the "panchayats") in rural areas.
+There are 3 types of municipalities based on the population (the criteria differ from state to state), Municipal Corporation (Nagar Nigam) with more than 1 million population, Municipal Councils (Nagar Palika) with more than 25,000 and less than 1 million population, and Municipal Committee (Town Panchayat) with more than 10,000 and less than 25,000 population.
+The Constitution does not define what exactly would constitute larger or smaller urban area or an area of transition from rural to urban. It has been left to the state governments to fix their own criteria. The Article also states that apart from population, other 
+parameters such as density of population, percentage of population in non-agricultural employment, 
+annual revenue generation etc., may be taken into account by the states.  PRIs in rural areas have 3 hierarchies of panchayats, Gram panchayats at village level, Panchayat Samiti at block level, and Zilla panchayats at district level.
+Panchayats cover about 96% of India's more than 5.8 lakh (580,000) villages and nearly 99.6% of the rural population. As of 2020, there were about 3 million elected representatives at all levels of the panchayat, nearly 1.3 million are women. These members represent more than 2.4 lakh (240,000) gram panchayats, about over 6,672 were intermediate level panchayat samitis at the block level and more than 500 zila parishads at district level. Following the 2013 local election, 37.1% of councillors were women, and in 2015/16 local government expenditure was 16.3% of total government expenditure.
+
+
+== History ==
+
+
+=== Committees for the study of issues ===
+Various committees were formed to study the issues and make recommendations for the implementation of local governance in India.
+
+
+==== The Balwant Rai Mehta Committee (1957) ====
+In 1957, a committee led by Balwant Rai Mehta studied the Community Development Projects and the National Extension Service and assessed the extent to which the movement had succeeded in utilising local initiatives and in creating institutions to ensure continuity in the process of improving economic and social conditions in rural areas. The Committee held that community development would only be deep and enduring when the community was involved in the planning, decision-making and implementation process. The suggestions were for as follows:
+
+an early establishment of elected local bodies and devolution to them of necessary resources, power, and authority,
+that the basic unit of democratic decentralisation was at the block/samiti level since the area of jurisdiction of the local body should neither be too large nor too small. The block was large enough for efficiency and economy of administration, and small enough for sustaining a sense of involvement in the citizens,
+such body must not be constrained by too much control by the government or government agencies,
+the body must  be constituted  for five years  by indirect elections from the village panchayats,
+its functions should cover the development of agriculture in all its aspects, the promotion of local industries and others
+services such as drinking water, road building, etc., and
+the higher-level body, Zilla Parishad, would play an advisory role.
+
+
+==== Ashok Mehta Committee (1977) ====
+
+The PRi structure did not develop the requisite democratic momentum and failed to cater to the needs of rural development. There are various reasons for such an outcome which include political and bureaucratic resistance at the state level to share power and resources with local-level institutions, the domination of local elites over the major share of the benefits of welfare schemes, lack of capability at the local level and lack of political will.
+It was decided to appoint a high-level committee under the chairmanship of Ashok Mehta to examine and suggest measures to strengthen PRIs. The Committee had to evolve an effective decentralised system of development for PRIs. They made the following recommendations:
+
+the district is a viable administrative unit for which planning, coordination, and resource allocation are feasible and technical expertise available,
+PRIs as a two-tier system, with Mandal Panchayat at the base and Zilla Parishad at the top,
+the PRIs are capable of planning for themselves with the resources available to them,
+district planning should take care of the urban-rural continuum,
+representation of SCs and STs in the election to PRIs on the basis of their population,
+four-year term of PRIs,
+participation of political parties in elections,
+any financial devolution should be committed to accepting
+that much of the developmental functions at the district level
+would be played by the panchayats.
+The states of Karnataka, Andhra Pradesh and West Bengal passed new legislation based on this report. However, the flux in politics at the state level did not allow these institutions to develop their own political dynamics.
+
+
+==== G.V.K. Rao Committee (1985) ====
+The G.V.K. Rao Committee was appointed by Planning Commission to once again look at various aspects of PRIs. The Committee was of the opinion that a total view of rural development must be taken in which PRIs must play a central role in handling people's problems. It recommended the following:-
+
+PRIs have to be activated and provided with all the required support to become effective organisations,
+PRIs at district level and below should be assigned the work of planning, implementation and monitoring of rural development programmes, and
+the block development office should be the spinal cord of the rural development process.
+district development commissioner to be introduced.
+election should conduct regularly.
+this is GVK Rao Committee main topics which they focused on.
+
+
+==== L. M. Singhvi Committee (1986) ====
+A committee led by Laxmi Mall Singhvi was constituted in the 1980s to recommend ways to revitalize PRIs. The Gram Sabha was considered as the base of a municipality decentralised, and PRIs viewed as institutions of governance which would actually facilitate the participation of the people in the process of planning and development. It recommended:
+
+local government should be constitutionally recognised, protected and preserved by the inclusion of new chapter in the Constitution,
+non-involvement of political parties in Panchayat elections.
+The suggestion of giving panchayats constitutional status was opposed by the Sarkaria Commission, but the idea, however, gained momentum in the late 1980s especially because of the endorsement by the late Prime Minister Rajiv Gandhi, who introduced the 64th Constitutional Amendment Bill in 1989. The 64th Amendment Bill was prepared and introduced in the lower house of Parliament. But it got defeated in the Rajya Sabha as non-convincing. He lost the general elections too. In 1989, the National Front introduced the 74th Constitutional Amendment Bill, which could not become an Act because of the dissolution of the Ninth Lok Sabha.
+All these various suggestions and recommendations and means of strengthening PRIs were considered while formulating the new Constitutional Amendment Act.
+
+
+=== Legal framework ===
+Following laws and subsequent amendments were passed to implement the selected recommendations of various committees.
+
+
+==== The 73rd Constitutional Amendment Act (1992) ====
+The idea which produced the 73rd Constitution Amendment was not a response to pressure from the grassroots, but to an increasing recognition that the institutional initiatives of the preceding decade had not delivered, that the extent of rural poverty was still much too large and thus the existing structure of government needed to be reformed. This idea evolved from the Centre and the state governments. It was a political drive to see PRIs as a solution to the governmental crises that India was experiencing.
+The Constitutional (73rd Amendment) Act, passed in 1992 by the Narasimha Rao government, came into force on April 24, 1993. It was meant to provide constitutional sanction to establish "democracy at the grassroots level as it is at the state level or national level". Its main features are as follows:
+
+The Gram Sabha or village assembly as a deliberative body to decentralised governance has been envisaged as the foundation of the Panchayati Raj System.73rd Amendment of the Constitution empowered the Gram Sabhas to conduct social audits in addition to its other functions.
+A uniform three-tier structure of panchayats at village (Gram Panchayat — GP), intermediate or block (Panchayat Samiti — PS) and district (Zilla Parishad — ZP) levels.
+All the seats in a panchayat at every level are to be filled by elections from respective territorial constituencies.
+Not less than one-third of the total seats for membership as well as office of chairpersons of each tier have to be reserved for women.
+Reservation for weaker castes and tribes (SCs and STs) have to be provided at all levels in proportion to their population in the panchayats.
+To supervise, direct and control the  regular and smooth elections to panchayats, a State Election Commission Act has ensured constitution of a State Finance Commission in every State/UT, for every five years, to suggest measures to strengthen finances of panchayati raj institutions.
+To promote bottom-up-planning, the District Planning Committee (DPC) in every district has been accorded to constitutional status.
+An indicative list of 29 items has been given in Eleventh Schedule of the Constitution. Panchayats are expected to play an effective role in planning and implementation of works related to these 29 items.
+
+
+==== 97th Constitutional Amendment Act (2011) ====
+Cooperative Societies are taken under "Local Government" after 97th Constitutional Amendment act 2011, under Dr. Manmohan Singh's government. Part-IX of Indian Constitution is related to Local Government, under which Panchayat Raj was defined, then after 74th Amendment Municipal Corporation and council were included and defined by inducing Part IX-A, and in 2011, Cooperative Societies were included in Local Government by inducing Part IX-B in the Constitution.
+The 97th Constitutional Amendment Act, 2011 provided for amendment in following things:
+1. It amended article 19(1)c by inserting after the word 'or unions' the words 'or Co-operative Societies'.
+2. It also inserted Article 43B in part IV of the Constitution as "The State shall endeavor to promote Voluntary formation, autonomous functioning, democratic control and professional Management of the Co-operative Societies" and
+3. After Part IX-A  of the Constitution Part IX-B was inserted. Part IX-B extended from Article 243ZH to Article 243ZT.
+
+
+== Tiers of Government ==
+
+The diagram below outlines the three tiers of government :
+
+
+== Types of local governance entities ==
+
+The local governance entities are broadly classified into  rural, which are further sub-divided based on the size of population in case of the urban bodies and based on the size of population and hierarchy in case of the rural bodies.
+
+
+=== Urban local governance bodies ===
+
+
+==== 3 types of MCs ====
+The following 3 types of democratically elected urban local governance bodies in India are called municipalities and abbreviated as the "MC". These are classified based on the size of the population of the urban settlement.
+
+Municipal Corporation, also called the "Nagar Nigam" or "City Corporation", of cities with more than 1 million population.
+Municipal Councils, also called the "Nagar Palika" or "Nagar Palika Parishad", of cities with more than 25,000 and less than 1 million population.
+Municipal Committee, also called the "Town Council" or "Nagar Panchayat" or "Town Panchayat" or "Notified Area Council" or "Notified Area Committee" depending on the state within which they lie, these are in the town with more than 10,000 and less than 25,000 population.
+
+
+==== Municipal Acts ====
+Municipal Acts are state level legislations to establish municipal governments in urban areas. These acts provide a framework of governance for cities within the state. Various processes including rules for elections, recruitment of staff, and demarcation of urban areas derive from the state municipal acts. Almost 70 different municipal acts in India govern the cities in the country. Typically, the municipal acts are of three types - statewide general municipalities acts, separate acts for establishing municipal corporations, and acts that are specific to individual municipal corporations.
+
+
+==== Functions of MCs ====
+All municipal acts in India provide for functions, powers and responsibilities to be carried out by the municipal government. These are divided into two categories: obligatory and discretionary.
+The mandatory functions of MC include the supply of pure and wholesome water, construction and maintenance of public streets, lighting and watering of public streets, cleaning of public streets, places and sewers, regulation of offensive, dangerous or obnoxious trades and callings or practices, maintenance or support of public hospitals, establishment and maintenance of primary schools, registration of births and deaths, removing obstructions and projections in public streets, bridges and other places, naming streets and numbering houses, maintenance of law and public order, etc.
+The discretionary functions of MC include the laying out of areas, securing or removal of dangerous buildings or places, construction and maintenance of public parks, gardens, libraries, museums, rest houses, leper homes, orphanages and rescue homes for women, public buildings, planting of trees and maintenance of roads, housing for low income groups, conducting surveys, organizing public receptions, public exhibitions, public entertainment, provision of transport facilities with the municipality, and promotion of welfare of municipal employees.
+Some of the functions of the urban bodies overlap with the work of state agencies. The functions of the municipality, including those listed in the Twelfth Schedule to the Constitution, are left to the discretion of the state government. Local bodies have to be bestowed with adequate powers, authority and responsibility to perform the functions entrusted to them by the Act. However, the Act has not provided them with any powers directly and has instead left it to state government discretion.
+These are all functions of MCs
+
+
+=== Rural local governance bodies ===
+
+The democratically elected local governance bodies in the villages of rural India are called Panchayati Raj Institutions (PRIs) which are based on the vedic era native democratic panchayat (Council of five officials) system.
+
+
+==== 3 hierarchies of PRI panchayats ====
+The following 3 hierarchies of PRI panchayats exist in states or Union Territories with more than two million inhabitants:
+
+Gram Panchayats at village level
+Panchayat Samiti or Mandal Parishad or Block Panchayat or Taluk Panchayat at Community Development Block or Mandal or Taluk level and
+Zila Parishad/District Panchayat at district level.
+The panchayati raj system is a three-tier system with elected bodies at the village, taluk and district levels. The modern system is based in part on traditional Panchayat governance, in part on the vision of Mahatma Gandhi and in part by the work of various committees to harmonize the highly centralized Indian governmental administration with a degree of local autonomy. The result was intended to create greater participation in local government by people and more effective implementation of rural development programs. Although, as of 2015, implementation in all of India is not complete, the intention is for there to be a gram panchayat for each village or group of villages, a tehsil level council, and a zilla panchayat at the district level.
+In India, the nomenclature of Panchayat Raj institutions varies across different states. At the village level, Panchayat Raj institutions are commonly referred to as gram panchayats in most states. These gram panchayats or village panchayats are responsible for the administration and governance of rural areas at the grassroots level. The block or tehsil level Panchayat Raj institutions are known by different names in different states. For instance, in some states, they are called block panchayats, while in others, they are referred to as panchayat samitis, panchayat unions and mandal parishads. The specific names may vary from state to state, but the purpose remains the same – to oversee the development and welfare activities at the block or tehsil level. The district level Panchayat Raj institutions are known by different names in different states, such as zilla panchayat, zilla parishad, district council and district panchayat.
+
+
+==== Functions of PRIs ====
+Defined in the Part IX of the Indian Constitution, these are responsible for the 29 subjects listed in the Eleventh Schedule including the "economic development, and strengthening social justice."
+
+
+== Local bodies by states of India ==
+The Constitution of India visualises panchayats as institutions of local governance. However, giving due consideration to the federal structure of India's polity, most of the financial powers and authorities to be endowed on panchayats have been left at the discretion of concerned state legislatures. Consequently, the powers and functions vested in PRIs vary from state to state. These provisions combine representative and direct democracy into a synergy and are expected to result in an extension and deepening of democracy in India. Hence, panchayats have journeyed from an institution within the culture of India to attain constitutional status.
+
+
+== Finance and funding ==
+The local governments—which include municipal bodies in urban areas and Panchayati Raj Institutions in rural areas—are financed by a mix of grants from various programs, transfers from higher governmental levels, and own-source income. Property taxes, user fees, fees, and licenses are the main sources of their own income. As suggested by the State Finance Commissions, a sizable portion of funding is provided by state governments in the form of grants-in-aid, assigned revenues, and tax devolution. Along with following the Central Finance Commission's recommendations, the Union Government also contributes money directly or through centrally sponsored programs. States and levels of local government differ greatly in how they balance their own revenues with intergovernmental transfers.
+
+
+== Decentralisation ==
+When power is taken away from Central and State governments and given to local government, it is called decentralisation. The main concept of decentralization is that many problems and matters are better solved at the local level. Additionally, at the local level, people can directly participate in making decisions. This promotes democratic participation and encourages people to get involved. In 1992, a significant step was taken towards decentralization. The rural local government is commonly referred to as "panchayati raj institutions (PRIs)." This local government structure extends up to the district level. The urban local government is commonly referred as "urban local bodies" (ULBs). Municipal corporations, municipal councils, and nagar panchayats are examples of urban local bodies responsible for managing local affairs, such as infrastructure development, public health, and sanitation.
+The local governments have been entrusted with the governance of various government institutions that were previously under the control of the state government. These transfers include the government district hospitals, which now falls under the authority of the district panchayats, the taluk or sub-district hospitals, which is now managed by the block panchayats, and the taluk headquarters hospitals, which are now the responsibility of the respective urban local bodies. Similarly, community health centers are now overseen by the block panchayats or urban local bodies, while primary health centers are managed by the respective gram panchayats and urban local bodies. Additionally, agricultural offices, veterinary hospitals, anganwadis, fisheries offices, and other relevant institutions have also been transferred to the respective local governments. In the education sector, the district panchayats have taken charge of all government higher secondary schools and high schools within their jurisdiction, while the respective gram panchayats are responsible for the management of government primary schools. In urban areas, all government schools, including higher secondary, high schools, primary schools, technical, and vocational schools, have been transferred to the respective urban local bodies for governance and administration. The local self-government institutions are responsible for managing local affairs, including infrastructure development, public health, sanitation, and urban planning, minor irrigations, fisheries, social forestry, small scale industries, social welfare, electricity, sports and cultural affairs, poverty alleviation, housing etc.
+
+
+=== Functions and Powers; ===
+Certain functions and powers that were previously under the exclusive jurisdiction of the central government or state governments were transferred to local governments. These functions can include areas like education, healthcare, rural development, infrastructure, and social welfare. By decentralizing these functions, local governments gained the authority to make decisions and implement policies that are more responsive to local needs.
+
+
+=== Administrative authority; ===
+Decentralization involved granting administrative authority to local governments. This meant that local governments gained the power to manage and oversee various administrative functions within their jurisdiction. They could hire and manage local staff, execute development projects, and ensure the efficient delivery of public services. This devolution of administrative authority aimed to enhance local governments' capacity to govern effectively.
+
+
+=== Financial resources; ===
+Along with functions and powers, financial resources were also transferred to local governments. This involved providing them with a share of tax revenues, grants, and funds from higher levels of government. The idea was to provide local governments with the necessary financial resources to carry out their responsibilities effectively. Financial decentralization aimed to reduce dependency on higher levels of government and promote local decision-making in financial matters.
+
+
+=== Institutional framework; ===
+To facilitate decentralization, an institutional framework was established. The 73rd and 74th Constitutional Amendments in 1992 provided a constitutional status to rural and urban local bodies, respectively. These amendments mandated the establishment of Panchayati Raj Institutions (PRIs) at the village, block, and district levels, and Urban Local Bodies (ULBs) at the municipal and city and town levels.
+The establishment of PRIs and ULBs provided a framework for decentralized governance and promoted democratic participation at the grassroots level.
+
+
+== Critical assessment ==
+Since the 73rd and 74th Amendments took effect in 1993, panchayats and municipalities have been formally responsible for civic functions ranging from road maintenance and drainage to primary education and water supply. In practice, audits by the Comptroller and Auditor General (CAG), government survey data, and independent research describe a persistent gap between this mandate and delivery on the ground. Analysts who study Indian federalism generally attribute the gap less to the design of local democracy itself than to how the 1992 reforms were implemented: state legislatures assigned local bodies a long list of functions without a matching transfer of taxing power and personnel, leaving most panchayats and municipalities unable to raise the revenue or hire the personnel the work requires.
+
+
+=== Roads and transport infrastructure ===
+Road maintenance is widely reported as underfunded relative to new construction. A field study of rural infrastructure financing found that panchayat budgets are dominated by the cost of providing new water-supply and road assets, leaving comparatively little for the recurring upkeep required once the road has been built – a pattern the results are linked directly to gram panchayats' weak collection of their own house-tax and water-charge revenue.
+
+
+=== Drainage, sewage, and urban flooding ===
+India's sewage treatment shortfall compounds the drainage problem every monsoon. Central Pollution Control Board data show the country's sewage treatment plants can process only a little over a third of the wastewater generated each day nationwide; ten states account for 86% of installed treatment capacity, while six states and Union Territories have no treatment plants at all. In many cities, untreated sewage flows into the same open drains and low-lying channels meant to carry away monsoon rainwater.
+
+
+== See also ==
+Administrative divisions of India
+Panchayati Raj
+Municipal governance in India
+
+
+== Further reading ==
+Shourie, Arun (1990). Individuals, institutions, processes: How one may strengthen the other in India today. New Delhi, India: Viking.
+
+
+== References ==
+
+
+== External links ==
+Milestones in the Evolution of Local Government since Independence
+World Bank : Overview of rural decentralization
+Decentralisation in India : Challenges and opportunities, UNDP, 2000 p 4
